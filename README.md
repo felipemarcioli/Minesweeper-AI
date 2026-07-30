@@ -37,7 +37,7 @@ When the Knowledge Base contains two sentences where one set of cells is a stric
 ### $$S_1 = \{\text{Cell A}, \text{Cell B}\} = 1$$
 ### $$S_2 = \{\text{Cell A}, \text{Cell B}, \text{Cell C}\} = 2$$
 
-The AI subtracts the smaller subset from the larger set:
+**The AI subtracts the smaller subset from the larger set:**
 
 ### $$\text{New Sentence} = (S_2 - S_1) = \{\text{Cell C}\}$$
 ### $$\text{New Count} = 2 - 1 = 1$$
